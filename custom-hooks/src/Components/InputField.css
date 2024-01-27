@@ -1,0 +1,8 @@
+input{
+    padding: 8px 16px;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    border:color-mix(in hsl shorter hue, color percentage, color percentage);
+    border-radius: 4px;
+    cursor: pointer;
+}
